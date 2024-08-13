@@ -1,4 +1,4 @@
-# Voice enabled user interface for geospatial map based web-applications.
+# Voice enabled user interface for geospatial map based web-applications
 
 Developing a library or proof-of-concept for voice-enabled user-interface for geospatial map based web applications. The solution is supposed to be lightweight and scalable and preferably leverage GPUs/NPUs available on modern devices rather than online libraries for voice command recognition.
 
@@ -11,12 +11,16 @@ Developing a library or proof-of-concept for voice-enabled user-interface for ge
 
 -> Utilize the computational power of GPUs/NPUs to enhance the performance and responsiveness of the system. (preferable but not mandatory)
 
-## Dataset:
+## Dataset
 -> Open access WMS services and their descriptions for e.g. OSM layers, WMS Services from Bhoonidhi/Bhuvan, NASA Worldview. Copernicus e.t.c
 
-## Tools/Technologies:
+## Tools/Technologies
 -> Programming languages: Python, JavaScript
+
 -> Machine Learning frameworks: Tensorflow/TensorFlow.js (lightweight js port of tensorflow)
+
 -> Voice recognition APIs: Google Speech-to-Text, Microsoft Azure Speech Service
+
 -> GIS libraries: Leaflet, OpenLayers
+
 -> NPU/WebGL libraries and SDKs.
