@@ -1,4 +1,4 @@
-# Voice enabled user interface for geospatial map based web-applications
+# Voice enabled user interface for geospatial map based web-application
 
 Developing a library or proof-of-concept for voice-enabled user-interface for geospatial map based web applications. The solution is supposed to be lightweight and scalable and preferably leverage GPUs/NPUs available on modern devices rather than online libraries for voice command recognition.
 
